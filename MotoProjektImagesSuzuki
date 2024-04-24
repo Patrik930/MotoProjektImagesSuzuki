@@ -1,0 +1,38 @@
+[{
+  "id": 1,
+  "model": "GSX-R1000",
+  "img": "https://i.ibb.co/P6K6vh0/GSX-R1000.jpg"
+
+},{
+  "id": 2,
+  "model": "GSX-R1000A",
+  "img": "https://i.ibb.co/rv5DQKy/GSX-R1000-A.jpg"
+},{
+  "id": 3,
+  "model": "GSX-R1000R",
+  "img": "https://i.ibb.co/0Y7PkJ3/GSX-R1000-R.jpg"
+},{
+  "id": 4,
+  "model": "GSX-R1000R Phantom",
+  "img": "https://i.ibb.co/HgdnF4G/GSX-R1000-R-Phantom.jpg"
+},{
+  "id": 5,
+  "model": "GSX-R125",
+  "img": "https://i.ibb.co/nMtfVg6/GSX-R125.png"
+},{
+  "id": 6,
+  "model": "GSX-R600",
+  "img": "https://i.ibb.co/2c7W4f0/GSX-R600.jpg"
+},{
+  "id": 7,
+  "model": "GSX-R750",
+  "img": "https://i.ibb.co/8B2y4Qq/GSX-R750.jpg"
+},{
+  "id": 8,
+  "model": "GSX-R150",
+  "img": "https://i.ibb.co/s2zN2vn/GSX-R150.jpg"
+},{
+  "id": 9,
+  "model": "Ecstar GSX-RR",
+  "img": "https://i.ibb.co/Dk8WKxT/ECSTAR-GSX-RR.jpg"
+}]
